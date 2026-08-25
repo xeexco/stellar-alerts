@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/dashboard-componentization",
+    "feat/payment-stream-live-indicator",
+    "feat/phase-2-core-engine",
+    "main",
+    "origin",
+    "task-17",
+    "task-18",
+    "task-19"
+  ],
+  "parent": {
+    "feat/dashboard-componentization": "main",
+    "feat/payment-stream-live-indicator": "main",
+    "feat/phase-2-core-engine": "main",
+    "main": null,
+    "origin": "main",
+    "task-17": "main",
+    "task-18": "main",
+    "task-19": "main"
+  },
+  "order": [
+    "main",
+    "feat/dashboard-componentization",
+    "feat/payment-stream-live-indicator",
+    "feat/phase-2-core-engine",
+    "origin",
+    "task-17",
+    "task-18",
+    "task-19"
+  ]
+}
